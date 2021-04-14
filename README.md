@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vitusha-rat on this site, Victor Golovko originally:) Live in Moscow Russia, studying at Bauman Moscow State University.
+- 👀 I’m interested in Data Science and everything connected with it.
+- 🌱 I’m currently learning Python(matplotlib, scikitlearn, pandas and etc.) and looking forward to learn SQL.
+- 📫 How to reach me: smaili4eg@gmail.com
