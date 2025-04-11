@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @vitusha-rat on this site, Victor Golovko originally:) Live in Moscow Russia, studying at Bauman Moscow State University.
-- 📫 How to reach me: smaili4eg@gmail.com
+
